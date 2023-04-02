@@ -26,14 +26,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=iashutoshtiwari&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=iashutoshtiwari&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=iashutoshtiwari&icon=5&color=0)](https://visitcount.itsvg.in)
