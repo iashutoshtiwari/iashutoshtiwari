@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh</h1>
 <h3 align="center">A Software Engineer</h3>
 
-- 👨‍💻 All of my projects are available at [ashutoshtiwari.co.in](https://ashutoshtiwari.co.in)
+- 👨‍💻 Know more about me at [ashutoshtiwari.co.in](https://ashutoshtiwari.co.in)
 
 - 📝 I regularly write articles on [blog.ashutoshtiwari.co.in](https://blog.ashutoshtiwari.co.in)
 
