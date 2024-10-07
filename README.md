@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [blog.ashutoshtiwari.co.in](https://blog.ashutoshtiwari.co.in)
 
-- 📫 How to reach me **mail@ashutoshtiwari.co.in**
+- 📫 Write to me at **mail@ashutoshtiwari.co.in**
 
 
 <h3 align="left">Connect with me:</h3>
