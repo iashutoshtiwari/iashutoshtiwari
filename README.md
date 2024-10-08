@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashutosh</h1>
+<h1 align="center">Hi ✌🏽, I'm Ashutosh</h1>
 <h3 align="center">A Software Engineer</h3>
 
 - 👨‍💻 Know more about me at [ashutoshtiwari.co.in](https://ashutoshtiwari.co.in)
