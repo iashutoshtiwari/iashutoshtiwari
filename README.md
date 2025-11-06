@@ -9,5 +9,5 @@
 ---
 
 ### 🧠 Fun Stuff
-- 🎮 Currently playing: Baldur's Gate 3
+- 🎮 Currently playing: Assassin's Creed Mirage
 - 🍕 Can’t say no to good pizza
