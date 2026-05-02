@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+---
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -11,3 +13,7 @@
   />
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/iashutoshtiwari/iashutoshtiwari/refs/heads/github-breakout/images/breakout-light.svg" />
 </picture>
+
+_Built with [cyprieng/github-breakout](https://github.com/cyprieng/github-breakout)_
+
+---
