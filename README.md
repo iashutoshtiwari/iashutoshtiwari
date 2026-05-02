@@ -16,7 +16,7 @@
 
 ### 🔗 Connect
 
-[Website](https://ashutoshtiwari.dev) • [Blog](https://ashutoshtiwari.dev/blog) • [LinkedIn](https://www.linkedin.com/in/iashutoshtiwari/) • [𝕏 / Twitter](https://x.com/dozed_dev)
+[Website](https://ashutoshtiwari.dev) • [Blog](https://ashutoshtiwari.dev/blog) • [LinkedIn](https://www.linkedin.com/in/iashutoshtiwari/) • [𝕏 / Twitter](https://x.com/dozed_dev) • [Email](mailto:contact@ashutoshtiwari.dev)
 
 ---
 
